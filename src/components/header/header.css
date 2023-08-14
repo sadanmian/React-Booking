@@ -86,9 +86,11 @@
 .date {
   position: absolute;
   top: 53px;
+  z-index: 2;
 }
 
 .options {
+  z-index: 2;
   position: absolute;
   top: 53px;
   background-color: white;
