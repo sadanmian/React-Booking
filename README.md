@@ -8,6 +8,10 @@ React booking system design. React hotel reservation app UI design using HTML, C
 
 ### `npm i --save @fortawesome/fontawesome-svg-core`
 
+### `npm i react-date-range`
+
+### `npm i date-fns`
+
 # Free icons styles
 
 npm i --save @fortawesome/free-solid-svg-icons
